@@ -11,7 +11,6 @@ function App() {
       <div className="top"><button className='button'>Digite aqui...</button></div>
         <div className="box">
           <div className="mid-box"></div>
-          <div className="hug"></div>
         </div>
       </div>
     </>
